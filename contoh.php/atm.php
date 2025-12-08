@@ -49,7 +49,7 @@ while ($valid) {
             break;
         case 4:
             echo "==============================\n";
-            echo " Terima Kasih, $nama! \n";
+            echo " Terima Kasihf, $nama! :) \n";
             echo "==============================\n";
             $valid = false;
             break;
